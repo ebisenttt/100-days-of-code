@@ -1,30 +1,35 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: 2021/09/01
+**Today's Progress:** 
+- GASでフォームの入力内容をメールで送信するアプリを作成開始
+- Githubにリポジトリ作成
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:** 
+最近仕事後の作業時間が減っているのではじめました。Twitterにもログを残します。
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link to work:**
+[@ebisenttt](https://twitter.com/ebisenttt)
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 2: 2021/09/02
+**Today's Progress:** 
+- GASフォーム・メール配信WebアプリをBULMAでデザイン
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Thoughts:**
+ポートフォリオのほうに手を付けられていない…
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 3: 2021/09/03
+**Today's Progress:** 
+- GASフォーム・メール配信WebアプリのValidationを追加
+- 同アプリのデザインを再調整
+**Thoughts:** 
+やはりポートフォリオに手をつけられていない。ただjQueryの勉強になった。jQueryが下火なのは重々承知のうえ…。Vue.jsでもGASかけるっぽいから次のアプリを作るときにやってみたい。
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+<!-- Template
+### Day 1: 2021/09/04
+**Today's Progress:** 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts:** 
 
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:**
+-->
