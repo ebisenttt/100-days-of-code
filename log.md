@@ -22,8 +22,16 @@
 **Today's Progress:** 
 - GASフォーム・メール配信WebアプリのValidationを追加
 - 同アプリのデザインを再調整
+
 **Thoughts:** 
 やはりポートフォリオに手をつけられていない。ただjQueryの勉強になった。jQueryが下火なのは重々承知のうえ…。Vue.jsでもGASかけるっぽいから次のアプリを作るときにやってみたい。
+
+### Day 2021/09/04
+**Today's Progress:** 
+- GASフォーム・メール配信WebアプリのModalを追加
+
+**Thoughts:** 
+今日は時間が短かった。Modalもまだ調整が必要。
 
 <!-- Template
 ### Day 1: 2021/09/04
