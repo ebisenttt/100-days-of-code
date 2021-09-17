@@ -115,6 +115,16 @@ ModalとValidationを追加して，とりあえず見せれる状態にした�
 **Thoughts:** 
 VanillaのJacascriptで書いていたので，DOMの操作はjQueryに直してます。まだ作業途中です。また外部公開にはOAuthのValidationが大変だと知り，ちょっと焦ってます。ただこれを避けようとするとやりたいことができないので，ドメイン取得も含めて腹をくくってがんばります。
 
+### Day 16: 2021/09/16
+**Today's Progress:** 
+- ポートフォリオのWorksを編集
+
+**Thoughts:**
+ポートフォリオにWorksとしてこれまでの制作物を載せようとしています。これまではGASで作ったものを載せようとしていましたが，外部公開のための作業が多く時間がかかるため，Hugoで作ったブログebisen blogを載せました。
+
+**Link to work:**
+[ebisen blog](https://ebisenttt.github.io/blog/)
+
 <!-- Template
 ### Day 1: 2021/09/04
 **Today's Progress:** 
