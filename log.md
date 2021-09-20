@@ -125,6 +125,32 @@ VanillaのJacascriptで書いていたので，DOMの操作はjQueryに直して
 **Link to work:**
 [ebisen blog](https://ebisenttt.github.io/blog/)
 
+### Day 17: 2021/09/17
+**Today's Progress:** 
+- ポートフォリオのSkillsに画像を追加
+
+**Thoughts:** 
+これまで文字列だったところを画像で代替しました。画像の一括インポートのベストプラクティスが分からず，手をつけられていなかった部分でしたが，英語で検索したら同じような内容の記事が多かったのでその方法を採用しました。画像をまとめたObjectをexportするファイルを用意する形です。
+
+### Day 18: 2021/09/18
+**Today's Progress:** 
+- コンタクトフォームをMaterial-UIに置き換え
+
+**Thoughts:** 
+Material-UIのデザインを変える方法がまだ理解しきれていなくて，手間取ってます。cssでデザインしたいですがうまく反映されず，makeStylesHooksを使えば反映されました。ただデザインとの切り分けができなくなってしまうので，可能であればcssにデザインを書いておきたい。
+
+### Day 19: 2021/09/19
+**Today's Progress:** 
+- Amplifyの環境整備
+**Thoughts:** 
+AWS ConsoleでBackend環境を削除したり，S3のBucketを削除したりしたことで，いろいろエラーが起きていたので，一旦削除して整理しなおしました。できるだけAWS Cliで作業した方が良さそうなので，今後はまずCliでの操作方法を覚えていきます。
+
+### Day 20: 2021/09/20
+**Today's Progress:** 
+- Route53でドメイン取得，ポートフォリオのドメイン移行
+**Thoughts:** 
+ドメインを取得してみました。月100円程度なので，勉強用に。AWSだといろいろ自動でやってくれているようなので，裏側も勉強する機会も作りたい。
+
 <!-- Template
 ### Day 1: 2021/09/04
 **Today's Progress:** 
